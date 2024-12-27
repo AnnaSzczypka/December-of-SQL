@@ -6,7 +6,7 @@
 -- Date: 5.12.2024
 -- Tool used: MySQL
 
--- https://adventofsql.com/challenges/1
+-- https://www.sqlcalendar.com/app/sql-challenge/1
 
 /*
 Today's Question:
