@@ -8,9 +8,9 @@ This kind of challenge is a good opportunity to learn something new or refresh m
 
 | Day   | Summary                                                     | Important Functions                    |
 |-------|-------------------------------------------------------------|----------------------------------------|
-| [Day 1](day_1.sql)  | Practice using JOIN operations and aggregate functions     | `JOIN`, `HAVING`, `WHERE`              |
-| [Day 2](day_2.sql)  | Practice on how to work with JSON data in SQL              | `json ->>`, `JSON_ARRAY_LENGTH()`, `JOIN` |
-| [Day 3](day_3.sql)  | Practice ASCII encoding and character decoding             | `ASCII()`, `CHR()`, `STRING_AGG()`     |
+| [Day 1](day_01.sql)  | Practice using JOIN operations and aggregate functions     | `JOIN`, `HAVING`, `WHERE`              |
+| [Day 2](day_02.sql)  | Practice on how to work with JSON data in SQL              | `json ->>`, `JSON_ARRAY_LENGTH()`, `JOIN` |
+| [Day 3](day_03.sql)  | Practice ASCII encoding and character decoding             | `ASCII()`, `CHR()`, `STRING_AGG()`     |
 | [Day 4](day_4.sql)  | Explore XML parsing and handling arrays                    | `xml XPATH()`, `UNNEST()`              |
 | [Day 5](day_5.sql)  | Advanced filtering with subqueries                         | `WHERE EXISTS`, `IN`, `NOT IN`         |
 | [Day 6](day_6.sql)  | Using window functions for ranking                         | `ROW_NUMBER()`, `RANK()`, `NTILE()`    |
