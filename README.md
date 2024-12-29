@@ -11,12 +11,12 @@ This kind of challenge is a good opportunity to learn something new or refresh m
 | [Day 1](day_01.sql)  | Practice grouping data, counting distinct values, and filtering aggregated results using HAVING     | `DICTINCT`, `COUNT`, `GROUP BY`, `HAVING`          |
 | [Day 2](day_02.sql)  | Practice on how to work with JSON data in SQL              | `json ->>`, `JSON_ARRAY_LENGTH()`, `JOIN` |
 | [Day 3](day_03.sql)  | Practice ASCII encoding and character decoding             | `ASCII()`, `CHR()`, `STRING_AGG()`     |
-| [Day 4](day_4.sql)  | Explore XML parsing and handling arrays                    | `xml XPATH()`, `UNNEST()`              |
-| [Day 5](day_5.sql)  | Advanced filtering with subqueries                         | `WHERE EXISTS`, `IN`, `NOT IN`         |
-| [Day 6](day_6.sql)  | Using window functions for ranking                         | `ROW_NUMBER()`, `RANK()`, `NTILE()`    |
-| [Day 7](day_7.sql)  | Aggregations with grouping sets                            | `GROUPING SETS`, `CUBE`, `ROLLUP`      |
-| [Day 8](day_8.sql)  | Recursive queries and common table expressions             | `WITH RECURSIVE`, `CTE`                |
-| [Day 9](day_9.sql)  | Optimizing queries with indexes                            | `CREATE INDEX`, `EXPLAIN`              |
+| [Day 4](day_04.sql)  | Explore XML parsing and handling arrays                    | `xml XPATH()`, `UNNEST()`              |
+| [Day 5](day_05.sql)  | Advanced filtering with subqueries                         | `WHERE EXISTS`, `IN`, `NOT IN`         |
+| [Day 6](day_06.sql)  | Using window functions for ranking                         | `ROW_NUMBER()`, `RANK()`, `NTILE()`    |
+| [Day 7](day_07.sql)  | Aggregations with grouping sets                            | `GROUPING SETS`, `CUBE`, `ROLLUP`      |
+| [Day 8](day_08.sql)  | Recursive queries and common table expressions             | `WITH RECURSIVE`, `CTE`                |
+| [Day 9](day_09.sql)  | Optimizing queries with indexes                            | `CREATE INDEX`, `EXPLAIN`              |
 | [Day 10](day_10.sql) | Exploring temporal data types                              | `DATE`, `TIMESTAMP`, `INTERVAL`        |
 | [Day 11](day_11.sql) | Manipulating string data                                   | `SUBSTRING()`, `CONCAT()`, `TRIM()`    |
 | [Day 12](day_12.sql) | Advanced JSON processing                                   | `jsonb_path_query()`, `jsonb_set()`    |
