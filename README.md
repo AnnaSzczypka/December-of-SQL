@@ -43,7 +43,7 @@ Feel free to explore the repository, review the solutions, and use it as inspira
 | [Day 19](day_19.sql) | [dataset_19](dateset/day_19_dataset.sql) | Querying metadata tables                                 | 
 | [Day 20](day_20.sql) | [dataset_20](dateset/day_20_dataset.sql) | Performance tuning                                       |
 | [Day 21](day_21.sql) | [dataset_21](dateset/day_21_dataset.sql) | Advanced use of window functions                         |
-| [Day 22](day_22_dataset.sql) | [dataset_22](dateset/day_22_dataset.sql) | Data validation techniques                               |
+| [Day 22](day_22.sql) | [dataset_22](dateset/day_22_dataset.sql) | Data validation techniques                               |
 | [Day 23](day_23.sql) | [dataset_23](dateset/day_23_dataset.sql) | Exploring advanced indexing                              |
 | [Day 24](day_24.sql) | [dataset_24](dateset/day_24_dataset.sql) | Final challenge combining advanced concepts              | 
 
