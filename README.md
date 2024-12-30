@@ -6,8 +6,8 @@ This kind of challenge is a good opportunity to learn something new or refresh m
 
 ## Calendar
 
-| Day   | Dataset                         | Summary                                                     | Important Functions                    |
-|-------|---------------------------------|-------------------------------------------------------------|----------------------------------------|
+| Day   | Dataset                             | Summary                                                     | Important Functions                    |
+|-------|-------------------------------------|-------------------------------------------------------------|----------------------------------------|
 | [Day 1](day_01.sql)  | [Dataset](dataset/day_01_dataset.sql)  | Practice grouping data, counting distinct values, and filtering aggregated results using HAVING     | `DISTINCT`, `COUNT`, `GROUP BY`, `HAVING`          |
 | [Day 2](day_02.sql)  | [Dataset](dataset/day_02_dataset.sql)  | Practice on how to work with JSON data in SQL              | `json ->>`, `JSON_ARRAY_LENGTH()`, `JOIN` |
 | [Day 3](day_03.sql)  | [Dataset](dataset/day_03_dataset.sql)  | Practice ASCII encoding and character decoding             | `ASCII()`, `CHR()`, `STRING_AGG()`     |
@@ -29,9 +29,10 @@ This kind of challenge is a good opportunity to learn something new or refresh m
 | [Day 19](day_19.sql) | [Dataset](dataset/day_19_dataset.sql) | Querying metadata tables                                 | `information_schema`, `pg_catalog`     |
 | [Day 20](day_20.sql) | [Dataset](dataset/day_20_dataset.sql) | Performance tuning                                       | `VACUUM`, `ANALYZE`, `CLUSTER`         |
 | [Day 21](day_21.sql) | [Dataset](dataset/day_21_dataset.sql) | Advanced use of window functions                         | `LAG()`, `LEAD()`, `FIRST_VALUE()`     |
-| [Day 22](day_22.sql) | [Dataset](dataset/day_22_dataset.sql) | Data validation techniques                               | `CHECK`, `ASSERT`, `CONSTRAINT`        |
+| [Day 22](day_22_dataset.sql) | [Dataset](dataset/day_22_dataset.sql) | Data validation techniques                               | `CHECK`, `ASSERT`, `CONSTRAINT`        |
 | [Day 23](day_23.sql) | [Dataset](dataset/day_23_dataset.sql) | Exploring advanced indexing                              | `GIN`, `BRIN`, `HASH INDEX`            |
 | [Day 24](day_24.sql) | [Dataset](dataset/day_24_dataset.sql) | Final challenge combining advanced concepts              | `ALL FUNCTIONS ABOVE`                  |
+
 
 
 
