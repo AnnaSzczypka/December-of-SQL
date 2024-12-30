@@ -8,7 +8,7 @@ This kind of challenge is a good opportunity to learn something new or refresh m
 
 | Day   | Dataset                         | Summary                                                     | Important Functions                    |
 |-------|---------------------------------|-------------------------------------------------------------|----------------------------------------|
-| [Day 1](day_01.sql)  | [Dataset](day_01_dataset.sql)  | Practice grouping data, counting distinct values, and filtering aggregated results using HAVING     | `DISTINCT`, `COUNT`, `GROUP BY`, `HAVING`          |
+| [Day 1](day_01.sql)  | [Dataset](dataset/day_01_dataset.sql)  | Practice grouping data, counting distinct values, and filtering aggregated results using HAVING     | `DISTINCT`, `COUNT`, `GROUP BY`, `HAVING`          |
 | [Day 2](day_02.sql)  | [Dataset](day_02_dataset.sql)  | Practice on how to work with JSON data in SQL              | `json ->>`, `JSON_ARRAY_LENGTH()`, `JOIN` |
 | [Day 3](day_03.sql)  | [Dataset](day_03_dataset.sql)  | Practice ASCII encoding and character decoding             | `ASCII()`, `CHR()`, `STRING_AGG()`     |
 | [Day 4](day_04.sql)  | [Dataset](day_04_dataset.sql)  | Explore XML parsing and handling arrays                    | `xml XPATH()`, `UNNEST()`              |
