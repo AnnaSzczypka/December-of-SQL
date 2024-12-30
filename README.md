@@ -32,7 +32,7 @@ Feel free to explore the repository, review the solutions, and use it as inspira
 | [Day 8](day_08.sql)  | [dataset_08](dateset/day_08_dataset.sql)  | practicing filtering with WHERE, aggregate functions, grouping, ordering, common table expressions (CTEs), and combining results from multiple queries             |
 | [Day 9](day_09.sql)  | [dataset_09](dateset/day_09_dataset.sql)  |practicing window functions, joins, aggregate functions, filtering, grouping, common table expressions (CTEs), and subqueries                            | 
 | [Day 10](day_10.sql) | [dataset_10](dateset/day_10_dataset.sql) | practicing aggregations, common table expressions (CTEs), window functions, conditional logic with CASE, and ranking with DENSE_RANK()                              |
-| [Day 11](day_11.sql) | [dataset_11](dateset/day_11_dataset.sql) | Practicing window functions, joins, aggregations, grouping, and filtering with ranking                                   |
+| [Day 11](day_11.sql) | [dataset_11](dateset/day_11_dataset.sql) | Practicing filtering with WHERE, date range conditions, functions like MONTH(), and sorting with ORDER BY                                   |
 | [Day 12](day_12.sql) | [dataset_12](dateset/day_12_dataset.sql) | Practicing grouping and aggregations with SUM() and GROUP BY                                  | 
 | [Day 13](day_13.sql) | [dataset_13](dateset/day_13_dataset.sql) | Practicing aggregation with SUM() and grouping with GROUP BY                                 | 
 | [Day 14](day_14.sql) | [dataset_14](dateset/day_14_dataset.sql) | Practicing filtering with the WHERE clause and conditional operators                                   |
