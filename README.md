@@ -4,7 +4,7 @@ An advent calendar for all SQL enthusiasts: SQL Advent Calendar [https://www.sql
 
 This project showcases my participation in the SQL Advent Calendar challenge, where I solved one SQL task each day throughout December. The tasks varied in difficulty, ranging from beginner to advanced, covering a wide range of SQL concepts and techniques.
 
-![SQL Calendar Challenge](https://github.com/AnnaSzczypka/December-of-SQL/blob/main/pictures/SQL%20Calendar.png)
+[SQL Calendar Challenge](https://github.com/AnnaSzczypka/December-of-SQL/blob/main/pictures/SQL%20Calendar.png)
 
 The challenge provided an excellent opportunity to:
 
