@@ -22,16 +22,16 @@ Feel free to explore the repository, review the solutions, and use it as inspira
 
 | Day   | Dataset                                      | Summary                                                     | 
 |-------|----------------------------------------------|-------------------------------------------------------------|
-| [Day 1](day_01.sql)  | [dataset_01](dateset/day_01_dataset.sql)  | grouping data, counting distinct values, and filtering aggregated results using HAVING     |
-| [Day 2](day_02.sql)  | [dataset_02](dateset/day_02_dataset.sql)  | selecting data and filtering rows with numeric comparisons| 
-| [Day 3](day_03.sql)  | [dataset_03](dateset/day_03_dataset.sql)  | using window functions, specifically DENSE_RANK()             | 
-| [Day 4](day_04.sql)  | [dataset_04](dateset/day_04_dataset.sql)  | practicing joins, aggregate functions, grouping, and ordering                    | 
-| [Day 5](day_05.sql)  | [dataset_05](dateset/day_05_dataset.sql)  | practicing filtering with WHERE clause, logical operators, and date conditions     | 
-| [Day 6](day_06.sql)  | [dataset_06](dateset/day_06_dataset.sql)  | practicing common table expressions (CTEs), window functions, joins, filtering, and grouping                         | 
-| [Day 7](day_07.sql)  | [dataset_07](dateset/day_07_dataset.sql)  | practicing common table expressions (CTEs), window functions, joins, grouping, aggregate functions, filtering, and ranking with partitioning                            |
-| [Day 8](day_08.sql)  | [dataset_08](dateset/day_08_dataset.sql)  | practicing filtering with WHERE, aggregate functions, grouping, ordering, common table expressions (CTEs), and combining results from multiple queries             |
-| [Day 9](day_09.sql)  | [dataset_09](dateset/day_09_dataset.sql)  |practicing window functions, joins, aggregate functions, filtering, grouping, common table expressions (CTEs), and subqueries                            | 
-| [Day 10](day_10.sql) | [dataset_10](dateset/day_10_dataset.sql) | practicing aggregations, common table expressions (CTEs), window functions, conditional logic with CASE, and ranking with DENSE_RANK()                              |
+| [Day 1](day_01.sql)  | [dataset_01](dateset/day_01_dataset.sql)  | Grouping data, counting distinct values, and filtering aggregated results using HAVING     |
+| [Day 2](day_02.sql)  | [dataset_02](dateset/day_02_dataset.sql)  | Selecting data and filtering rows with numeric comparisons| 
+| [Day 3](day_03.sql)  | [dataset_03](dateset/day_03_dataset.sql)  | Using window functions, specifically DENSE_RANK()             | 
+| [Day 4](day_04.sql)  | [dataset_04](dateset/day_04_dataset.sql)  | Practicing joins, aggregate functions, grouping, and ordering                    | 
+| [Day 5](day_05.sql)  | [dataset_05](dateset/day_05_dataset.sql)  | Practicing filtering with WHERE clause, logical operators, and date conditions     | 
+| [Day 6](day_06.sql)  | [dataset_06](dateset/day_06_dataset.sql)  | Practicing common table expressions (CTEs), window functions, joins, filtering, and grouping                         | 
+| [Day 7](day_07.sql)  | [dataset_07](dateset/day_07_dataset.sql)  | Practicing common table expressions (CTEs), window functions, joins, grouping, aggregate functions, filtering, and ranking with partitioning                            |
+| [Day 8](day_08.sql)  | [dataset_08](dateset/day_08_dataset.sql)  | Practicing filtering with WHERE, aggregate functions, grouping, ordering, common table expressions (CTEs), and combining results from multiple queries             |
+| [Day 9](day_09.sql)  | [dataset_09](dateset/day_09_dataset.sql)  |Practicing window functions, joins, aggregate functions, filtering, grouping, common table expressions (CTEs), and subqueries                            | 
+| [Day 10](day_10.sql) | [dataset_10](dateset/day_10_dataset.sql) | Practicing aggregations, common table expressions (CTEs), window functions, conditional logic with CASE, and ranking with DENSE_RANK()                              |
 | [Day 11](day_11.sql) | [dataset_11](dateset/day_11_dataset.sql) | Practicing filtering with WHERE, date range conditions, functions like MONTH(), and sorting with ORDER BY                                   |
 | [Day 12](day_12.sql) | [dataset_12](dateset/day_12_dataset.sql) | Practicing grouping and aggregations with SUM() and GROUP BY                                  | 
 | [Day 13](day_13.sql) | [dataset_13](dateset/day_13_dataset.sql) | Practicing aggregation with SUM() and grouping with GROUP BY                                 | 
