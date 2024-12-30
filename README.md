@@ -32,20 +32,20 @@ Feel free to explore the repository, review the solutions, and use it as inspira
 | [Day 8](day_08.sql)  | [dataset_08](dateset/day_08_dataset.sql)  | practicing filtering with WHERE, aggregate functions, grouping, ordering, common table expressions (CTEs), and combining results from multiple queries             |
 | [Day 9](day_09.sql)  | [dataset_09](dateset/day_09_dataset.sql)  |practicing window functions, joins, aggregate functions, filtering, grouping, common table expressions (CTEs), and subqueries                            | 
 | [Day 10](day_10.sql) | [dataset_10](dateset/day_10_dataset.sql) | practicing aggregations, common table expressions (CTEs), window functions, conditional logic with CASE, and ranking with DENSE_RANK()                              |
-| [Day 11](day_11.sql) | [dataset_11](dateset/day_11_dataset.sql) | Manipulating string data                                   |
-| [Day 12](day_12.sql) | [dataset_12](dateset/day_12_dataset.sql) | Advanced JSON processing                                   | 
-| [Day 13](day_13.sql) | [dataset_13](dateset/day_13_dataset.sql) | Analyzing geospatial data                                 | 
-| [Day 14](day_14.sql) | [dataset_14](dateset/day_14_dataset.sql) | Advanced date functions                                   |
-| [Day 15](day_15.sql) | [dataset_15](dateset/day_15_dataset.sql) | Pivot tables with conditional aggregation                 |
-| [Day 16](day_16.sql) | [dataset_16](dateset/day_16_dataset.sql) | Exploring stored procedures                               | 
-| [Day 17](day_17.sql) | [dataset_17](dateset/day_17_dataset.sql) | Working with hierarchical data                           |
-| [Day 18](day_18.sql) | [dataset_18](dateset/day_18_dataset.sql) | Using advanced joins                                     | 
-| [Day 19](day_19.sql) | [dataset_19](dateset/day_19_dataset.sql) | Querying metadata tables                                 | 
-| [Day 20](day_20.sql) | [dataset_20](dateset/day_20_dataset.sql) | Performance tuning                                       |
-| [Day 21](day_21.sql) | [dataset_21](dateset/day_21_dataset.sql) | Advanced use of window functions                         |
-| [Day 22](day_22.sql) | [dataset_22](dateset/day_22_dataset.sql) | Data validation techniques                               |
-| [Day 23](day_23.sql) | [dataset_23](dateset/day_23_dataset.sql) | Exploring advanced indexing                              |
-| [Day 24](day_24.sql) | [dataset_24](dateset/day_24_dataset.sql) | Final challenge combining advanced concepts              | 
+| [Day 11](day_11.sql) | [dataset_11](dateset/day_11_dataset.sql) | Practicing window functions, joins, aggregations, grouping, and filtering with ranking                                   |
+| [Day 12](day_12.sql) | [dataset_12](dateset/day_12_dataset.sql) | Practicing grouping and aggregations with SUM() and GROUP BY                                  | 
+| [Day 13](day_13.sql) | [dataset_13](dateset/day_13_dataset.sql) | Practicing aggregation with SUM() and grouping with GROUP BY                                 | 
+| [Day 14](day_14.sql) | [dataset_14](dateset/day_14_dataset.sql) | Practicing filtering with the WHERE clause and conditional operators                                   |
+| [Day 15](day_15.sql) | [dataset_15](dateset/day_15_dataset.sql) | Practicing common table expressions (CTEs), joins, aggregations, grouping, and ranking with DENSE_RANK()                 |
+| [Day 16](day_16.sql) | [dataset_16](dateset/day_16_dataset.sql) | Practicing aggregation with SUM(), grouping with GROUP BY, and calculations within aggregate functions                               | 
+| [Day 17](day_17.sql) | [dataset_17](dateset/day_17_dataset.sql) | Practicing filtering with WHERE, logical operators (OR), and sorting with ORDER BY in descending order                           |
+| [Day 18](day_18.sql) | [dataset_18](dateset/day_18_dataset.sql) | Practicing common table expressions (CTEs), joins, aggregations with AVG(), rounding, grouping, and ranking with DENSE_RANK()                                     | 
+| [Day 19](day_19.sql) | [dataset_19](dateset/day_19_dataset.sql) | Practicing joins, filtering with WHERE, grouping with GROUP BY, aggregation with MAX(), and sorting with ORDER BY                                 | 
+| [Day 20](day_20.sql) | [dataset_20](dateset/day_20_dataset.sql) | Practicing filtering with WHERE, joins, and removing duplicates with DISTINCT                                       |
+| [Day 21](day_21.sql) | [dataset_21](dateset/day_21_dataset.sql) | Practicing common table expressions (CTEs), aggregation with SUM(), grouping with GROUP BY, cross joins, and percentage calculations with arithmetic operations.s                         |
+| [Day 22](day_22.sql) | [dataset_22](dateset/day_22_dataset.sql) | Practicing joins (LEFT JOIN), filtering with WHERE, and identifying unmatched records with IS NULL                               |
+| [Day 23](day_23.sql) | [dataset_23](dateset/day_23_dataset.sql) | Practicing common table expressions (CTEs), window functions (LAG()), ordering with ORDER BY, and performing calculations on sequential data                              |
+| [Day 24](day_24.sql) | [dataset_24](dateset/day_24_dataset.sql) | Practicing window functions (SUM() OVER), ordering with ORDER BY, and calculating running totals              | 
 
 
 
