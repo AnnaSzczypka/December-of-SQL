@@ -1,8 +1,20 @@
 # Advent of SQL 2024 🎄
 
-An advent calendar for all enthusiasts of SQL: [https://www.sqlcalendar.com/app/advent-calendar](https://www.sqlcalendar.com/app/advent-calendar).
+An advent calendar for all SQL enthusiasts: SQL Advent Calendar [https://www.sqlcalendar.com/app/advent-calendar](https://www.sqlcalendar.com/app/advent-calendar).
 
-This kind of challenge is a good opportunity to learn something new or refresh my knowledge.
+This project showcases my participation in the SQL Advent Calendar challenge, where I solved one SQL task each day throughout December. The tasks varied in difficulty, ranging from beginner to advanced, covering a wide range of SQL concepts and techniques.
+
+The challenge provided an excellent opportunity to:
+
+Reinforce my knowledge: It helped me solidify the skills I gained during my courses, especially in advanced topics such as joining multiple tables, Common Table Expressions (CTEs), and window functions.
+Learn new concepts: Each task introduced unique problems, which allowed me to expand my understanding of SQL and apply it in practical scenarios.
+Have fun: The engaging and creative nature of the tasks made learning SQL an enjoyable experience.
+This repository includes:
+
+Daily Solutions: SQL scripts (day_01.sql, day_02.sql, etc.) containing my solutions to each challenge.
+Datasets: Supporting datasets for each task, stored in the dataset/ folder.
+Summary Table: A detailed overview of the tasks, highlighting the concepts and techniques practiced each day (see below).
+Feel free to explore the repository, review the solutions, and use it as inspiration for your own SQL learning journey!
 
 ## Calendar
 
